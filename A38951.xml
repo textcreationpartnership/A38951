@@ -1,0 +1,142 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An exact relation of the defeat of the rebels at Bothwell-Bridge</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A38951</idno>
+            <idno type="STC">Wing E3685</idno>
+            <idno type="STC">ESTC R12355</idno>
+            <idno type="EEBO-CITATION">13016813</idno>
+            <idno type="OCLC">ocm 13016813</idno>
+            <idno type="VID">96562</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A38951)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 96562)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 738:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An exact relation of the defeat of the rebels at Bothwell-Bridge</title>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Tho. Newcomb,</publisher>
+                  <pubPlace>[London] In the Savoy :</pubPlace>
+                  <date>1679.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:96562:1"/>
+            <pb facs="tcp:96562:1" rendition="simple:additions"/>
+            <p>AN EXACT RELATION OF THE DEFEAT OF THE REBELS AT Bothwell-Bridge.</p>
+            <p>
+               <floatingText xml:lang="eng" type="license">
+                  <body>
+                     <p>
+                        <hi>Publiſhed by Authority.</hi>
+                     </p>
+                  </body>
+               </floatingText>
+            </p>
+            <p>In the <hi>SAVOY:</hi> Printed by <hi>Tho. Newcomb,</hi> 1679.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:96562:2"/>
+            <pb n="3" facs="tcp:96562:2" rendition="simple:additions"/>
+            <head>AN Exact Relation Of the DEFEAT of the REBELS at <hi>BOTHWEL-BRIDGE.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">H</seg>IS Grace the Duke of <hi>Monmouth</hi> came up to the Kings Army on Thurſday the 19th day of <hi>June,</hi> which then lay at <hi>Moorhead</hi> beyond <hi>Blackhorne;</hi> and having ſent for ſome Pro<g ref="char:EOLhyphen"/>viſions from <hi>Edenburgh,</hi> which he found wanting, as ſoon as they arrived, He reſolved to march againſt the Rebels, who lay encamped beyond <hi>Both<g ref="char:EOLhyphen"/>well-Bridge,</hi> up towards <hi>Hamilton,</hi> about Nine miles diſtance from our Camp. And accordingly on Saturday the 21 of <hi>June,</hi> in the Evening, his Grace began his March; Major <hi>Oglethorp</hi> was ordered to Lead the Van with five Troops of the <hi>Engliſh</hi> Dragoons, and One hundred Horſe, commanded by the Lord <hi>Hume.</hi> His Grace followed with the reſt of the Horſe and <hi>Dragoons,</hi> and Three hundred Commanded Foot; The Earl of <hi>Linlithgow,</hi> Major-General, led the Foot. About break of day the Van came in ſight of the Rebels, who were all ready Drawn up in two Bodies, though they had no other notice of our March than what they had from our lighted Matches. Major <hi>Oglethorp</hi> with his Party was com<g ref="char:EOLhyphen"/>manded to march directly towards the Bridge, and draw up
+<pb n="4" facs="tcp:96562:3"/>before it, which they did within Piſtol-ſhot of it, ap<g ref="char:EOLhyphen"/>proaching ſo much the nearer, becauſe they found the Rebels had Barricadoed the Bridge with Stones and Tim<g ref="char:EOLhyphen"/>ber, that endred it very difficult to Paſs; the Rebels had poſted themſelves very advantageouſly, for there was no coming to them but over that Bridge, the River <hi>Clyd</hi> running between the two Armies. His Grace drew up the Army in Battle up<g ref="char:EOLhyphen"/>on the heighth parallel to the River, in full view of the Re<g ref="char:EOLhyphen"/>bels; which being done, He went to viſit the Dragoons Poſt about a Mile diſtant; He was met on the way by an Officer, who acquainted him that a Parly was Beat, and delivered him a Petition ſent from them, and Signed by <hi>Robert Hamilton</hi> in the name of himſelf and the Covenanted Army in <hi>Scotland</hi> now in Arms; The Purport whereof was, <hi>That they had lay'n under great Oppreſſions in their Eſtates and Conſciences, which had Obliged them to have recourſe to Arms for their own Preſervati<g ref="char:EOLhyphen"/>on, which they would keep no longer, when the Things ſet forth in their Declaration were granted them.</hi> His Grace admitting of the Parley, there came out to him, Mr. <hi>David Hume,</hi> one of their Miniſters, with another Gentleman; and being asked what they came for, Mr <hi>Hume</hi> anſwered, <hi>They were informed that his Grace was a Mercifull Man, that took no delight to ſhed Blood, and one that had Power to do them Good.</hi> His Grace told them, <hi>He ſhould be very glad that they would prevent the effuſion of Blood, and to that end he was willing to Hear what it was they deſired.</hi> Mr. <hi>Hume</hi> anſwered, <hi>That all their Deſires were contained in their Declaration.</hi> And being asked whether he meant the Declaration that paſſed under their name, as Proclaimed at <hi>Rugland.</hi> He anſwered, <hi>God forbid we ſhould own that;</hi> But the Declaration he ſpoke of, was one they had lately Printed, a Copy whereof he had with him, and deſired liberty to Read it; and having read it, His Grace told them, <hi>He ſuppoſed they would take this as a Proof of his Clemency and Forbearance towards them, that he had Patience to hear ſuch a LIBEL againſt the Kings Perſon and Government read through<g ref="char:EOLhyphen"/>out; But that he ſaw no Article in it he could poſſibly agree to; and therefore would make them a much ſhorter Propoſal:</hi> Which was, <hi>That if they would immediately lay down thei Arms, and ſubmit themſelves to His Majeſty's Mercy, the Kings Forces ſhould not fall upon them.</hi> Mr <hi>Hume</hi> ſaid it was impoſſible to agree to
+<pb n="5" facs="tcp:96562:3"/>that, for that it would be to lay their Heads upon the Block; his Grace adviſed them to conſider well what they had to do, and to reflect a little (if that number of Men (ſhewing them the Army as it was Drawn up) were not ſufficient to oblige them to new Reſolutions; He returned it very briskly, Deſi<g ref="char:EOLhyphen"/>ring his Grace would take a View of the Covenanted Army, aſſuring him, That every Man he ſaw there, would Die in the place where he ſtood, in Defence of the Covenant. His Grace ſaid no more to him, But that a few minutes would ſhew the truth of that, if they refuſed his Offer.</p>
+            <p>The other Gentleman, who appeared the more moderate, deſired a Ceſſation of Arms for one day, but being told it was not to be expected that the Kings Troops ſhould grant that to Rebels, he preſſed it for a quarter of an hour onely. His Grace told them if they would go and conſider what he had ſaid, and ſend him their Propoſal in writing, he would at any time, when he heard their Drum, ſtop to re<g ref="char:EOLhyphen"/>ceive their Paper, though the fight ſhould be begun, and ſo diſmiſt them and immediately Ordered the Cannon to advance, which was brought to the heighth oppoſite to the Bridge, and whilſt preparation was making to Fire upon them, they beat a ſecond Parley; and Major <hi>Maine</hi> was ſent to know what they would have, who brought back a Letter to this effect, <hi>That they had conſidered what had been ſaid; but could agree to nothing leſs than what was in their Declaration; and that they underſtood His Grace had brought with him from</hi> England, <hi>ſome Terms of Accommodation; If he would pleaſe to communicate them he ſhould have their Anſwer, if they were ſuch as they could accept.</hi> Major <hi>Maine</hi> was ſent back to acquaint them, that a more ſatisfactory Anſwer was expected, therefore they would now do well to look to themſelves, and their Officers might, if they thought fit, retire from the Bridge (who were come thither upon the account of the Parley) for they ſhould hear from his Grace in another manner. As ſoon as they were retired, Orders were given for the Cannon to Fire, which they return<g ref="char:EOLhyphen"/>ed with ſo great a Volly of ſhot from the Bridge, that our Gunners quitted their Guns, but ſoon returned to them again: Major <hi>Oglethorp</hi> was ordered to make a Trench on the edge of the Hill to cover his men, but before it was finiſhed, upon the Firing of the Cannon againſt the Bridge, rhe Rebels be<g ref="char:EOLhyphen"/>gan
+<pb n="6" facs="tcp:96562:4"/>to run from it. Whereupon His Grace ore-rod Major <hi>Oglethorp</hi> to poſſeſs himſelf of the Bridge, and advance no farther; but his men finding the Enemy to retire before them, could not be hindred from paſſing the Bridge, and going up ſome part of the riſing ground after them. But the Rebels perceiving their ſmall number, advanced upon them, and forced them to retire to the houſes at the foot of the Bridge. His Grace ſent Three hundred Foot to ſecond them, commanded by the Lord <hi>Leviſton,</hi> Son to the Earl of <hi>Linlithgow,</hi> who be<g ref="char:EOLhyphen"/>haved themſelves ſo well, and made ſo great Fire, that they and the Dragoons forced the Rebels up the hill again. They were immediately ſeconded by the Regiment of Guards, and by the Troop of Guards led by His Grace. Upon theſe Troops paſſing the Bridge, the Rebels fell to running, but rallied a<g ref="char:EOLhyphen"/>gain upon <hi>Hamilton Heath,</hi> at a quarter of a miles diſtance, and His Grace advanced, with the Troops that were already paſſed, to the top of the hill, and there made a Halt to give time to ſo ma<g ref="char:EOLhyphen"/>ny of the reſt of the Forces to come over, as would make the firſt Line. In the mean while the Rebels were drawing up in Battle oppoſite to us, and his Grace obſerving that they ſtrengthned their left Wing with a deſign to take the advantage of a hol<g ref="char:EOLhyphen"/>low Ground, he ordered his right to be ſtrengthned and commanded 100 <hi>Highlanders</hi> of the Marquis of <hi>Athols</hi> Regi<g ref="char:EOLhyphen"/>ment to poſt themſelves in that hollow, and the five Troops of <hi>Engliſh</hi> Dragoons were to ſecond them; this was no ſooner done but, they advanced upon us at the ſame time that His Grace was forming the ſecond Line. Our <hi>Highland<g ref="char:EOLhyphen"/>ers</hi> and their Foot began the Fight in the hollow ground, but the <hi>Highlanders</hi> advancing too far were forced to retreat back to the Dragoons. At the ſame time the Cannon Fi<g ref="char:EOLhyphen"/>red upon their left, where their ſtrength lay, and had not fired twice round when their Horſe began to run; where<g ref="char:EOLhyphen"/>upon, His Grace ordered Major <hi>Oglethorp</hi> with the Dragoons, Major <hi>Maine</hi> and Captain <hi>Claveres</hi> with their Troops of Horſe, and the Earl of <hi>Eglinton</hi> with his Troop of Vo<g ref="char:EOLhyphen"/>lunteers to purſue whilſt he followed himſelf with the reſt of the Army ſo faſt as not to be put in diſorder: And the Army followed no farther then to the end of the Heath which was about a Mile. But the others purſued them ſo cloſe, that there were taken above 1200 Priſoners, and between 7 or 800 killed. The Heat of the Buſineſs was over by One of the
+<pb n="7" facs="tcp:96562:4" rendition="simple:additions"/>Clock, after which time there were none killed. Many of the Priſoners were ſorely wounded, and thoſe his Grace orde<g ref="char:EOLhyphen"/>red to be dreſſed by his own Chirurgeon. The Priſoners of Note that were taken are <hi>John Kid,</hi> one of their Miniſters, and of the moſt Factious, who was taken by the Dragoons; and <hi>John King</hi> a Miniſter, who was taken ſome days after the Fight near <hi>Glaſgow,</hi> Mr. <hi>David Carthcart;</hi> a Captain of Foot was taken with <hi>Kid,</hi> and old <hi>Gordon,</hi> Laird of <hi>Earleſton</hi> was killed.</p>
+            <p>It was ſaid by the Priſoners, that they had no account from <hi>David Hume</hi> of what his Grace offered them, which they believe would have been accepted of by the Generality, ſo care<g ref="char:EOLhyphen"/>ful are their Miniſters that thoſe poor Miſguided People ſhould rather be Deſtroyed than Undeceived.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
